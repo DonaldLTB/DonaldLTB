@@ -1,7 +1,7 @@
 # 初めまして 👋
 💁🏻‍♂️　Full Stack Developerのクロル・ローレンスと申します。宜しくお願い申し上げます。[LinkedIn](https://www.linkedin.com/in/lawrence-kroll/ "LinkedIn")
 
-💻　Ruby、Rails、Javascript、CSS、HTMLとgitのスキルは持っています。そして現時点にReact、Redux、Vue、GraphQLのプロジェクトもやっております。
+💻　Ruby、Rails、Javascript、CSS、HTML、git等のスキルを持っています。そして現時点にReact、Redux、Vue、GraphQLのプロジェクトもやっております。
 
 🗣　日本語以外はドイツ語と英語が流暢に話せます。
 
