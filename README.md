@@ -35,8 +35,8 @@
 
 ![HLL Fan Page](https://live.staticflickr.com/65535/51136647973_37ff0252ca_n.jpg "Hll Fan Page")
 
-HLLというゲームをやっている方に向けのコミュニティーAppです。
+HLL Fan Page テスティングPhase - HLLというゲームをやっている方に向けのコミュニティーAppです。
 
 ![Amadog](https://live.staticflickr.com/65535/51136656763_cd606c2e34_n.jpg "Amadog")
 
-[Amadog - 開発中](https://amadog.herokuapp.com/) - Find someone who walks your dog and be able to track it upon request.
+[Amadog](https://amadog.herokuapp.com/) 開発中 - Find someone who walks your dog and be able to track it upon request.
