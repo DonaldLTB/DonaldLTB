@@ -39,4 +39,4 @@ HLLというゲームをやっている方に向けのコミュニティーApp�
 
 ![Amadog](https://live.staticflickr.com/65535/51136656763_cd606c2e34_n.jpg "Amadog")
 
-Find someone who walks your dog and be able to track it upon request.
+[Amadog - 開発中](https://amadog.herokuapp.com/) - Find someone who walks your dog and be able to track it upon request.
