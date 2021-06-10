@@ -3,7 +3,7 @@
 
 💻　Ruby、Rails、Javascript、CSS、HTML、git等のスキルを持っています。そして現時点にReact、Redux、Vue、GraphQLのプロジェクトもやっております。
 
-🗣　日本語以外はドイツ語と英語が流暢に話せます。
+🗣　日本語以外はドイツ語と英語が流暢に話せます。Let's speak in English oder auf deutsch ou un petit peu français😁
 
 👀　他の人と一緒にプロジェクトを作る機会を探しております。遠慮なく声を掛けて下さい。
 
