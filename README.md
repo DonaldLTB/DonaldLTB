@@ -35,7 +35,7 @@
 
 ![HLL Fan Page](https://live.staticflickr.com/65535/51136647973_37ff0252ca_n.jpg "Hll Fan Page")
 
-HLL Fan Page テスティングPhase - HLLというゲームをやっている方に向けのコミュニティーAppです。
+HLL Fan Page テスティング中 - HLLというゲームをやっている方に向けのコミュニティーAppです。
 
 ![Amadog](https://live.staticflickr.com/65535/51136656763_cd606c2e34_n.jpg "Amadog")
 
