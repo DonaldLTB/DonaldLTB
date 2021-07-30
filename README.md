@@ -25,6 +25,10 @@
 
 [gameXchange](https://gamexxxchange.herokuapp.com/ "gameXchange") - A game sharing web app ([repo](https://github.com/nikoandpiko/gamexchange))
 
+![HLL Fan Page](https://live.staticflickr.com/65535/51136647973_37ff0252ca_n.jpg "Hll Fan Page")
+
+HLL Fan Page 公開中（Alpa v.） - HLLというゲームをやっている方に向けのコミュニティーAppです。
+
 ### シンプルなApp
 
 ![Cyber77Cocktail](https://live.staticflickr.com/65535/51135745562_51104ca08c_n.jpg "Cyber77Cocktail")
@@ -32,10 +36,6 @@
 [Cyber77Cocktail](https://cyber-cocktail-2077.herokuapp.com/ "Cyber77Cocktail") - 単純なCyber的なCocktail作りAppです。 ([repo](https://github.com/DonaldLTB/rails-mister-cocktail))
 
 ### 作成中プロジェクト
-
-![HLL Fan Page](https://live.staticflickr.com/65535/51136647973_37ff0252ca_n.jpg "Hll Fan Page")
-
-HLL Fan Page テスティング中 - HLLというゲームをやっている方に向けのコミュニティーAppです。
 
 ![Amadog](https://live.staticflickr.com/65535/51136656763_cd606c2e34_n.jpg "Amadog")
 
