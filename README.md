@@ -27,7 +27,7 @@
 
 ![HLL Fan Page](https://live.staticflickr.com/65535/51136647973_37ff0252ca_n.jpg "Hll Fan Page")
 
-HLL Fan Page 公開中（Alpa v.） - HLLというゲームをやっている方に向けのコミュニティーAppです。
+HLL Fan Page 公開中（Alpa ver.） - HLLというゲームをやっている方に向けのコミュニティーAppです。([repo](https://github.com/DonaldLTB/HLL_Fan_Page_JP))
 
 ### シンプルなApp
 
